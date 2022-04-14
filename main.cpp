@@ -1,5 +1,3 @@
-typedef struct IUnknown IUnknown;
-
 #include <iostream>
 #include <windows.h>
 #include <string>
